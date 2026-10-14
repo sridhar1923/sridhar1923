@@ -44,9 +44,11 @@
 ## Pokédex Entry: About Me
 > *"A wild developer appeared!"*
 
-Hey, I'm **Sridhar Manokaran**, a 3rd-year BTech IT student at ABV-IIITM Gwalior (2024–2029).
+Hey, I'm a BTech student who likes building cool stuff, breaking it by accident, and then pretending it was part of the plan.
 
-I build things that range from agentic AI research frameworks and crude oil supply-chain intelligence to secure cloud storage. I enjoy working on practical engineering problems, experimenting with new technologies, and occasionally creating projects that grow suspiciously bigger than their original scope.
+I mess around with AI, build random projects, and occasionally start something small that somehow turns into a whole side quest. Currently learning Go, ML, and Agentic AI while trying to convince my code to work on the first try.
+
+Basically, I write code, fight bugs, collect XP, and disappear like a Ghost-type Pokémon.
 
 - **Current grinding targets:** Go, Machine Learning, Agentic AI, and Generative AI.
 - **Why Charizard?** Regular profile pictures simply don't have enough firepower.
