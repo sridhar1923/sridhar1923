@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="150" viewBox="0 0 760 150" fill="none">
+  <defs>
+    <linearGradient id="sbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1B2A"/>
+      <stop offset="100%" stop-color="#15131D"/>
+    </linearGradient>
+    <linearGradient id="sborder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F5821F"/>
+      <stop offset="50%" stop-color="#2EC4B6"/>
+      <stop offset="100%" stop-color="#E8452C"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="756" height="146" rx="10" fill="url(#sbg)" stroke="url(#sborder)" stroke-width="1.5"/>
+
+  <!-- Simulated Contribution Grid in Palette -->
+  <g transform="translate(30, 25)">
+    <!-- Column 1 -->
+    <rect x="0" y="0" width="10" height="10" rx="2" fill="#1E2333"/>
+    <rect x="0" y="14" width="10" height="10" rx="2" fill="#705898"/>
+    <rect x="0" y="28" width="10" height="10" rx="2" fill="#1E2333"/>
+    <rect x="0" y="42" width="10" height="10" rx="2" fill="#2EC4B6"/>
+    <rect x="0" y="56" width="10" height="10" rx="2" fill="#1E2333"/>
+
+    <!-- Column 2 -->
+    <rect x="14" y="0" width="10" height="10" rx="2" fill="#705898"/>
+    <rect x="14" y="14" width="10" height="10" rx="2" fill="#F5821F"/>
+    <rect x="14" y="28" width="10" height="10" rx="2" fill="#2EC4B6"/>
+    <rect x="14" y="42" width="10" height="10" rx="2" fill="#1E2333"/>
+    <rect x="14" y="56" width="10" height="10" rx="2" fill="#705898"/>
+
+    <!-- Column 3 -->
+    <rect x="28" y="0" width="10" height="10" rx="2" fill="#1E2333"/>
+    <rect x="28" y="14" width="10" height="10" rx="2" fill="#2EC4B6"/>
+    <rect x="28" y="28" width="10" height="10" rx="2" fill="#E8452C"/>
+    <rect x="28" y="42" width="10" height="10" rx="2" fill="#F5821F"/>
+    <rect x="28" y="56" width="10" height="10" rx="2" fill="#2EC4B6"/>
+
+    <!-- Column 4 -->
+    <rect x="42" y="0" width="10" height="10" rx="2" fill="#705898"/>
+    <rect x="42" y="14" width="10" height="10" rx="2" fill="#1E2333"/>
+    <rect x="42" y="28" width="10" height="10" rx="2" fill="#F5821F"/>
+    <rect x="42" y="42" width="10" height="10" rx="2" fill="#E8452C"/>
+    <rect x="42" y="56" width="10" height="10" rx="2" fill="#1E2333"/>
+
+    <!-- Column 5 -->
+    <rect x="56" y="0" width="10" height="10" rx="2" fill="#2EC4B6"/>
+    <rect x="56" y="14" width="10" height="10" rx="2" fill="#F5821F"/>
+    <rect x="56" y="28" width="10" height="10" rx="2" fill="#705898"/>
+    <rect x="56" y="42" width="10" height="10" rx="2" fill="#1E2333"/>
+    <rect x="56" y="56" width="10" height="10" rx="2" fill="#F5821F"/>
+
+    <!-- Column 6 -->
+    <rect x="70" y="0" width="10" height="10" rx="2" fill="#1E2333"/>
+    <rect x="70" y="14" width="10" height="10" rx="2" fill="#2EC4B6"/>
+    <rect x="70" y="28" width="10" height="10" rx="2" fill="#1E2333"/>
+    <rect x="70" y="42" width="10" height="10" rx="2" fill="#705898"/>
+    <rect x="70" y="56" width="10" height="10" rx="2" fill="#E8452C"/>
+
+    <!-- Snake Trail -->
+    <!-- Tail -->
+    <rect x="98" y="42" width="10" height="10" rx="2" fill="#F5821F" opacity="0.6"/>
+    <rect x="112" y="42" width="10" height="10" rx="2" fill="#F5821F" opacity="0.8"/>
+    <rect x="126" y="42" width="10" height="10" rx="2" fill="#F5821F"/>
+    <rect x="140" y="42" width="10" height="10" rx="2" fill="#F5821F"/>
+    <rect x="140" y="28" width="10" height="10" rx="2" fill="#F5821F"/>
+    <rect x="154" y="28" width="10" height="10" rx="2" fill="#F5821F"/>
+    <rect x="168" y="28" width="10" height="10" rx="2" fill="#F5821F"/>
+    <!-- Snake Head -->
+    <rect x="182" y="28" width="10" height="10" rx="2" fill="#E8452C"/>
+    <circle cx="189" cy="31" r="1.5" fill="#FFF4E0"/>
+
+    <!-- Remaining Dots Pattern -->
+    <rect x="196" y="28" width="10" height="10" rx="2" fill="#2EC4B6"/>
+    <rect x="210" y="28" width="10" height="10" rx="2" fill="#705898"/>
+    <rect x="224" y="28" width="10" height="10" rx="2" fill="#1E2333"/>
+    <rect x="238" y="28" width="10" height="10" rx="2" fill="#F5821F"/>
+    <rect x="252" y="28" width="10" height="10" rx="2" fill="#1E2333"/>
+    <rect x="266" y="28" width="10" height="10" rx="2" fill="#705898"/>
+    <rect x="280" y="28" width="10" height="10" rx="2" fill="#2EC4B6"/>
+    <rect x="294" y="28" width="10" height="10" rx="2" fill="#E8452C"/>
+    <rect x="308" y="28" width="10" height="10" rx="2" fill="#F5821F"/>
+  </g>
+
+  <!-- Legend & Action Prompt -->
+  <text x="380" y="45" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="700" font-size="13" fill="#F5821F">🐍 PLATANE CONTRIBUTION SNAKE</text>
+  <text x="380" y="66" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="400" font-size="11.5" fill="#FFF4E0">Automated GitHub Action configured in <tspan fill="#2EC4B6" font-family="monospace">.github/workflows/snake.yml</tspan></text>
+  <text x="380" y="86" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="400" font-size="11" fill="#C5BAAF">Outputs dynamically to branch: <tspan fill="#F5821F" font-weight="600">output</tspan> every 12 hours.</text>
+
+  <!-- Palette Dots Legend -->
+  <g transform="translate(380, 102)">
+    <text x="0" y="10" font-family="'Segoe UI', -apple-system, sans-serif" font-size="10" fill="#705898">Less</text>
+    <rect x="30" y="0" width="10" height="10" rx="2" fill="#1E2333"/>
+    <rect x="44" y="0" width="10" height="10" rx="2" fill="#705898"/>
+    <rect x="58" y="0" width="10" height="10" rx="2" fill="#2EC4B6"/>
+    <rect x="72" y="0" width="10" height="10" rx="2" fill="#F5821F"/>
+    <rect x="86" y="0" width="10" height="10" rx="2" fill="#E8452C"/>
+    <text x="104" y="10" font-family="'Segoe UI', -apple-system, sans-serif" font-size="10" fill="#E8452C">More</text>
+  </g>
+</svg>

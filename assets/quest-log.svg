@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230" fill="none">
+  <defs>
+    <linearGradient id="qbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1B2A"/>
+      <stop offset="60%" stop-color="#15131D"/>
+      <stop offset="100%" stop-color="#1E1622"/>
+    </linearGradient>
+    <linearGradient id="qborder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F5821F"/>
+      <stop offset="50%" stop-color="#2EC4B6"/>
+      <stop offset="100%" stop-color="#E8452C"/>
+    </linearGradient>
+    <linearGradient id="barGo" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2EC4B6"/>
+      <stop offset="100%" stop-color="#00A896"/>
+    </linearGradient>
+    <linearGradient id="barML" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F5821F"/>
+      <stop offset="100%" stop-color="#FF9F1C"/>
+    </linearGradient>
+    <linearGradient id="barAgentic" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#705898"/>
+      <stop offset="100%" stop-color="#9B72CF"/>
+    </linearGradient>
+    <linearGradient id="barGenAI" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E8452C"/>
+      <stop offset="100%" stop-color="#FF5A36"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Frame -->
+  <rect x="2" y="2" width="756" height="226" rx="14" fill="url(#qbg)" stroke="url(#qborder)" stroke-width="2"/>
+
+  <!-- Quest 1: Go -->
+  <g transform="translate(24, 20)">
+    <text x="0" y="16" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="700" font-size="14" fill="#2EC4B6">⚡ QUEST 01: Go (Golang)</text>
+    <text x="0" y="32" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="400" font-size="12" fill="#C5BAAF">Backend and systems development</text>
+    <rect x="360" y="8" width="230" height="14" rx="7" fill="#1E2333"/>
+    <rect x="360" y="8" width="130" height="14" rx="7" fill="url(#barGo)"/>
+    <rect x="610" y="6" width="110" height="20" rx="10" fill="#2EC4B6" fill-opacity="0.18" stroke="#2EC4B6" stroke-width="1"/>
+    <text x="665" y="20" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="700" font-size="10.5" fill="#2EC4B6" text-anchor="middle">IN PROGRESS</text>
+  </g>
+
+  <line x1="24" y1="68" x2="736" y2="68" stroke="#222738" stroke-width="1"/>
+
+  <!-- Quest 2: Machine Learning -->
+  <g transform="translate(24, 76)">
+    <text x="0" y="16" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="700" font-size="14" fill="#F5821F">📊 QUEST 02: Machine Learning</text>
+    <text x="0" y="32" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="400" font-size="12" fill="#C5BAAF">Foundational understanding and practical skills</text>
+    <rect x="360" y="8" width="230" height="14" rx="7" fill="#1E2333"/>
+    <rect x="360" y="8" width="120" height="14" rx="7" fill="url(#barML)"/>
+    <rect x="610" y="6" width="110" height="20" rx="10" fill="#F5821F" fill-opacity="0.18" stroke="#F5821F" stroke-width="1"/>
+    <text x="665" y="20" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="700" font-size="10.5" fill="#F5821F" text-anchor="middle">IN PROGRESS</text>
+  </g>
+
+  <line x1="24" y1="124" x2="736" y2="124" stroke="#222738" stroke-width="1"/>
+
+  <!-- Quest 3: Agentic AI -->
+  <g transform="translate(24, 132)">
+    <text x="0" y="16" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="700" font-size="14" fill="#9B72CF">🤖 QUEST 03: Agentic AI</text>
+    <text x="0" y="32" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="400" font-size="12" fill="#C5BAAF">Autonomous planning, execution workflows &amp; evaluation</text>
+    <rect x="360" y="8" width="230" height="14" rx="7" fill="#1E2333"/>
+    <rect x="360" y="8" width="145" height="14" rx="7" fill="url(#barAgentic)"/>
+    <rect x="610" y="6" width="110" height="20" rx="10" fill="#705898" fill-opacity="0.25" stroke="#9B72CF" stroke-width="1"/>
+    <text x="665" y="20" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="700" font-size="10.5" fill="#C4A8EA" text-anchor="middle">IN PROGRESS</text>
+  </g>
+
+  <line x1="24" y1="180" x2="736" y2="180" stroke="#222738" stroke-width="1"/>
+
+  <!-- Quest 4: Generative AI -->
+  <g transform="translate(24, 188)">
+    <text x="0" y="16" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="700" font-size="14" fill="#E8452C">🔥 QUEST 04: Generative AI</text>
+    <text x="0" y="32" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="400" font-size="12" fill="#C5BAAF">LLM-powered applications and generative systems</text>
+    <rect x="360" y="8" width="230" height="14" rx="7" fill="#1E2333"/>
+    <rect x="360" y="8" width="135" height="14" rx="7" fill="url(#barGenAI)"/>
+    <rect x="610" y="6" width="110" height="20" rx="10" fill="#E8452C" fill-opacity="0.18" stroke="#E8452C" stroke-width="1"/>
+    <text x="665" y="20" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="700" font-size="10.5" fill="#E8452C" text-anchor="middle">IN PROGRESS</text>
+  </g>
+</svg>
