@@ -240,14 +240,3 @@ I build things that range from agentic AI research frameworks and crude oil supp
     <img src="https://img.shields.io/badge/Codeforces-srimanokaran-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile">
   </a>
 </div>
-
-<br>
-
-<!-- ================================================================= -->
-<!-- 11. FOOTER                                                        -->
-<!-- ================================================================= -->
-<div align="center">
-  <hr width="80%">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=sridhar1923&color=F5821F&style=flat-square&label=POK%C3%89DEX+SCANS" alt="Visitor Counter">
-</div>
