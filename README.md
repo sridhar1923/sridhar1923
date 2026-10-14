@@ -3,22 +3,6 @@
 <!-- ================================================================= -->
 <!-- 1. HEADER BANNER                                                  -->
 <!-- ================================================================= -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0D1B2A,25,15131D,60,705898,85,E8452C,100,F5821F&height=220&section=header&text=Sridhar%20Manokaran&fontSize=36&fontColor=FFF4E0&animation=fadeIn&desc=Ghost-type%20Trainer%20%E2%80%A2%20Charizard-Powered%20Ambitions&descSize=15&descAlignY=68&descAlign=50">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,FFF4E0,30,F5821F,70,E8452C,100,0D1B2A&height=220&section=header&text=Sridhar%20Manokaran&fontSize=36&fontColor=0D1B2A&animation=fadeIn&desc=Ghost-type%20Trainer%20%E2%80%A2%20Charizard-Powered%20Ambitions&descSize=15&descAlignY=68&descAlign=50">
-  <img alt="Sridhar Manokaran Header Banner" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0D1B2A,25,15131D,60,705898,85,E8452C,100,F5821F&height=220&section=header&text=Sridhar%20Manokaran&fontSize=36&fontColor=FFF4E0&animation=fadeIn&desc=Ghost-type%20Trainer%20%E2%80%A2%20Charizard-Powered%20Ambitions&descSize=15&descAlignY=68&descAlign=50" width="100%">
-</picture>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=F5821F&center=true&vCenter=true&width=680&height=40&lines=Building+Things%2C+Breaking+Bugs%2C+and+Collecting+XP.;Ghost-type+developer.+Charizard-powered+ambitions.;Turning+ideas+into+commits+and+commits+into+side+quests.;Software+developer+by+profession%2C+wild+encounter+by+personality.">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=E8452C&center=true&vCenter=true&width=680&height=40&lines=Building+Things%2C+Breaking+Bugs%2C+and+Collecting+XP.;Ghost-type+developer.+Charizard-powered+ambitions.;Turning+ideas+into+commits+and+commits+into+side+quests.;Software+developer+by+profession%2C+wild+encounter+by+personality.">
-  <img alt="Sridhar Manokaran Typing Taglines" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=F5821F&center=true&vCenter=true&width=680&height=40&lines=Building+Things%2C+Breaking+Bugs%2C+and+Collecting+XP.;Ghost-type+developer.+Charizard-powered+ambitions.;Turning+ideas+into+commits+and+commits+into+side+quests.;Software+developer+by+profession%2C+wild+encounter+by+personality.">
-</picture>
-
-<br><br>
-
 <!-- ================================================================= -->
 <!-- 2. TRAINER CARD                                                   -->
 <!-- ================================================================= -->
